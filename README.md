@@ -1,4 +1,4 @@
-# The quran package
+# The quran-id package
 Copyright © 2023
 
 The [`quran-id`](https://ctan.org/pkg/quran-id) package is an extension of the [`quran`](https://ctan.org/pkg/quran) LaTeX package, designed to enhance the typesetting of the Holy Quran by incorporating specific Indonesian translations. It provides support for Indonesian translations carried out by notable translators such as `Indonesian Ministry of Religious Affairs`,  and `Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti`.
@@ -35,7 +35,7 @@ For more details, please refer to [this link](http://mirrors.ctan.org/macros/xet
 @misc{quran,
   title={{quran}: An easy way to typeset any part of The Holy Quran},
   url={https://ctan.org/pkg/quran},
-  note={Software available from https://github.com/javadr/quran},
+  note={Available at https://github.com/javadr/quran},
   author={Javad Razavian},
   year={2015},
 }
