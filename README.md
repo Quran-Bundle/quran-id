@@ -23,7 +23,7 @@ The [`quran-id`](https://ctan.org/pkg/quran-id) package is an extension of the [
 ```
 
 ## Documentation
-For more details, please refer to [this link](http://mirrors.ctan.org/macros/xetex/latex/quran-id/doc/quran-id-doc.pdf).
+For more details, please refer to [this link](http://mirrors.ctan.org/macros/unicodetex/latex/quran-id/doc/quran-id-doc.pdf).
 
 
 ## License
