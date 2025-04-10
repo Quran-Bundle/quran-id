@@ -1,6 +1,6 @@
 _____________________
 The quran-id package
-v0.1
+v0.11
 
 The package is prepared for typesetting some of Indonesian translations of the Holy Quran.
 The supported translations are done  by `Indonesian Ministry of Religious Affairs`,
@@ -8,12 +8,12 @@ and `Jalal ad-Din al-Mahalli and Jalal ad-Din as-Suyuti`.
 
 For more information, please see the documentation.
 
-Current version release date: 2023/11/01
+Current version release date: 2025/03/31
 ___________________
 Seiied-Mohammad-Javad Razvian
 javadr@gmail.com
 
-Copyright © 2023
+Copyright © 2023-2025
 It may be distributed and/or modified under the LaTeX Project Public License,
 version 1.3c or higher (your choice). The latest version of
 this license is at: http://www.latex-project.org/lppl.txt
