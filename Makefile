@@ -32,6 +32,7 @@ clean:
 dev:
 	cd tex || exit
 	sudo cp -v *.def quran-id.sty /usr/local/texlive/2025/texmf-dist/tex/xelatex/quran-id/
+	sudo mktexlsr
 
 .PHONY: ctan
 ctan:
@@ -73,7 +74,7 @@ readme:
 	@echo "Seiied-Mohammad-Javad Razvian" >> "${readme-file}"
 	@echo "javadr@gmail.com" >> "${readme-file}"
 	@echo "" >> "${readme-file}"
-	@echo "Copyright © ${YEAR}" >> "${readme-file}"
+	@echo "Copyright © 2023-${YEAR}" >> "${readme-file}"
 	@echo "It may be distributed and/or modified under the LaTeX Project Public License," >> "${readme-file}"
 	@echo "version 1.3c or higher (your choice). The latest version of" >> "${readme-file}"
 	@echo "this license is at: http://www.latex-project.org/lppl.txt" >> "${readme-file}"
